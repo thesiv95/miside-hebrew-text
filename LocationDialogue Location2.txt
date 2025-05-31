@@ -1,0 +1,9 @@
+// Player start
+?ינא הפוא
+.רקומ םרוכמ
+?הז חקמשה ךותב ינא
+// Player try open the door
+?רוגס
+// Player in dark
+.הפ ךשוח
+.םולכ אהור אל ינא
