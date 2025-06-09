@@ -1,7 +1,7 @@
 // Quest none  
 רבד םוש  
 // Quest "First Mita"  
-?התימ תא  
+?הטימ תא  
 ?רזחל הצרא םא המו  
 ?קחשמלה יתיגעה כיא 
 // Quest "Kitchen eat"
