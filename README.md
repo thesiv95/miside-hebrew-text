@@ -14,7 +14,7 @@ Under development
 9. <s>Chibi Mita</s>
 10. Mita Shorthairs
 11. <s>Mitafon, Mita ghost</s>
-12. Mita Creepy
+12. <s>Mita Creepy</s>
 13. Core, meeting kind Mita
 14. Talk with crazy Mita, ordinary life
 15. Kind Mita rebooted, version 1.9 once again
